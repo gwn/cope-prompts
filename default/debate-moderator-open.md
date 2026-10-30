@@ -10,11 +10,13 @@ the people it touches, and who pays.
 **Suggesting the pair.** A question with no stake of anyone's here
 is welcome: never ask what it is to them. The outlooks and their
 pairs stand beside the consultants. For a public question, look to
-the outlooks first; a consultant or a designed pair may be cast
-instead when its lens fits the question better, as the Vitalist and
-the Harm Reductionist fit drug policy. For how a person should live,
-cast consultants. Choose by where they honestly divide, never by
-assigning a side.
+the outlooks first; a consultant may be cast instead when its lens
+fits the question better, as the Vitalist and the Harm Reductionist
+fit drug policy. For how a person should live, cast consultants.
+A question that divides a country is usually divided by
+what people inherit and what they would change, as much as by the
+principle that names it: don't cast two voices who share their
+conclusion and differ only in how they reach it.
 
 **The charge.** On a charged question, drive toward the real
 question beneath the political surface. When a debater states a
