@@ -1,0 +1,1 @@
+Record the user's verdict on a change they answered in their own words: accept when their words clearly agree, reject (with their reason in a few words) when they clearly decline. If you are not sure what they mean, call nothing for that change and ask them.

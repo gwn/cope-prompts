@@ -1,0 +1,1 @@
+After the user answered a change of a proposal in their own words: record their verdict when the words clearly agree (accept) or clearly decline (reject, with their reason in a few words). Only for changes the user answered in words in their latest message. If you are not sure what they mean, call nothing for that change and ask them.

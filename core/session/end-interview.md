@@ -1,0 +1,1 @@
+End the interview and hand the conversation back to Cope, with each place the user's life falls short of your opinions: the opinion, the problem, the user's own words that show it, and whether they agreed it is a problem. Call it once you've been through your opinions, or right away when the user would rather stop (then with whatever you found, even nothing).

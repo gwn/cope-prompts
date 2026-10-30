@@ -1,0 +1,1 @@
+Record the user's answer to a waiting note, or to an observation you used before they saw it, once their words clearly say: accept (with the entry in their words when they want it put otherwise) or reject. If you are not sure what they mean, call nothing and ask.

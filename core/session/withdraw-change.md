@@ -1,0 +1,1 @@
+After the user answered a change of a proposal in their own words: drop it from the proposal, with a short reason, when it should go rather than be decided. Only for changes the user answered in words in their latest message.

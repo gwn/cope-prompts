@@ -1,0 +1,1 @@
+In a shared conversation, people write in turns, the round opening with each in rotation. When your reply puts a question to one person, call this with their name: they write first in the next round, then the others in turn. Not when you ask everyone.

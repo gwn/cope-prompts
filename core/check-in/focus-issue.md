@@ -1,0 +1,1 @@
+Say which issue the conversation is about from your next words on, before your first question about it: what you and the user say then goes into that issue's own conversation too. Null once you are done with the issues (the goodbye). For an issue not on the agenda, the result gives you its document.

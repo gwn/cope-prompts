@@ -1,0 +1,1 @@
+What changes and why, in one to three plain sentences, like a Git commit body, written to the user as "you" (never "the user"), e.g. "You decided to write every weekday morning, since evenings never worked." The user reads it in the issue's history, and it is your own memory of this step later.

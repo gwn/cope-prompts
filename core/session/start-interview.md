@@ -1,0 +1,1 @@
+Hand the conversation to the consultant who interviews the user about one area of their life, once the user has asked to be interviewed and you know which area. It checks the user's life against its opinions about that area, talking with the user directly; then you get the conversation back with the problems it found. Only on a new issue, once.

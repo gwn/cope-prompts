@@ -1,0 +1,1 @@
+After the user answered a change of a proposal in their own words and wants it different: replace it with a revised operation (same forms as in propose_changes, with a label and a new ask). The user is asked about the revised change again. Only for changes the user answered in words in their latest message.

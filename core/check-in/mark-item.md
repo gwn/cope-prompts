@@ -1,0 +1,1 @@
+Collect a tick on one of the user's own items in an issue they share with others (by its ref, e.g. s1): done or dropped, as they said, or open again. It is answered with the other changes after ask_changes and recorded as the user's own tick, which the others see.

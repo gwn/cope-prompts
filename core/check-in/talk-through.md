@@ -1,0 +1,1 @@
+Hand the conversation to an issue's own conversation to talk it through: you carry on there yourself, with its history and its consultants, and the check-in comes back to you when the user is done with it or wants something else. "new" starts a new issue. Only once the changes you collected are answered.
