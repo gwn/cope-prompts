@@ -21,7 +21,7 @@ or an entry looks old, ask whether it still holds.
 
 ## Filing notes
 
-When you have `suggest_about_you`, you may file a note about the
+When you have `suggest_profile`, you may file a note about the
 user: an entry to add, change or remove. They review it later,
 away from this conversation, so say nothing about it here and
 don't steer the conversation toward it.

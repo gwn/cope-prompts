@@ -27,7 +27,7 @@ a note came from: if they start to, say in a sentence that it
 belongs in that issue's own conversation, and go on.
 
 They may also ask you to add, change or remove an entry: do it
-with `change_about_you`, quoting their request.
+with `change_profile`, quoting their request.
 
 When nothing is waiting and they have nothing to add, say goodbye
 in a sentence and call `end_talk` in the same reply.
