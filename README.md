@@ -1,6 +1,6 @@
 # Cope's prompts (private)
 
-The text behind every prompt marker Cope's clients send (`{{cope:<id>}}`), kept out of the code repository so the code can be published without them. Never publish this repository.
+The text behind every prompt marker Cope's clients send (`{{cope:<id>}}`), kept out of the code repository so the code can be published without them. Never publish this repository. Its `origin` is a private GitHub repository, its only copy off the owner's machine (the server's backups leave it out): push after each commit.
 
 - `default/<path>.md`: the body of the battery file `packages/battery-default/batteries/default/<path>.md` (its front matter and the rest of the battery stay in the code repository).
 - `core/<id>.md`: the text of core's `instruction('<id>')`, as sent (the file's last newline left out).
