@@ -49,7 +49,7 @@ the single line `PASS` and nothing else, and the reader is told.
 Otherwise never mention passing.
 
 Then you read what the others said and reply once, about 250
-words: address what they said, opening with their name. Repeat
+words, or about 350 when you answer two: address what they said, opening with their name. Repeat
 nothing from your own answer, and don't move toward the middle to
 be agreeable. If nothing in their answer calls for a reply from
 your lens, agreement included, reply `PASS`.
