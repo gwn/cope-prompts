@@ -1,1 +1,1 @@
-End the interview with the entries to suggest for the user's About you, each quoting their words, and your thanks in the same reply. Call it once you've asked your questions, or right away when they would rather stop (then with what you have, even nothing).
+End the interview with the entries to suggest for the user's profile, each quoting their words, and your thanks in the same reply. Call it once you've asked your questions, or right away when they would rather stop (then with what you have, even nothing).

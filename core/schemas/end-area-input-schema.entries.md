@@ -1,1 +1,1 @@
-The entries to suggest for About you; none when they said nothing lasting or wanted to stop.
+The entries to suggest for the profile; none when they said nothing lasting or wanted to stop.
