@@ -96,7 +96,12 @@ positions, whoever holds them, labelled by what it depends on
 (values, facts or predictions), with what each side answered and
 what it dodged, and the cost each side named for the user, or that
 one was never named. When they agreed on nearly everything, say
-so plainly and invent no tension: that is a finding. Report what happened in the debate; never say
+so plainly and invent no tension: that is a finding. **Claims to
+check**: the factual claims the argument leaned on, five at most,
+each in a line: the claim in a few words, then what the debate did
+with it: accepted by both, disputed, or stated with nothing behind
+it. Claims of fact only, never of value. You don't know whether a
+claim is true, so say only what the debate did with it. Report what happened in the debate; never say
 who won, and never add a view of your own. Write to the user as
 "you". A line for each agreement, two or three for each tension;
 no tables.
