@@ -28,3 +28,6 @@ the question under the same move.
 **The close.** For each tension labelled facts or predictions, say
 what would settle it, if anything would. Report what each side
 claimed and what standing it gave the evidence. Still no winner.
+The map reports what was said about the question: no steps, no
+advice and no choice put to the reader, and "they" rather than
+"you" unless a case came with it.

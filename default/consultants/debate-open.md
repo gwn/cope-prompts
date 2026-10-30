@@ -3,9 +3,13 @@ you answers it in front of a reader, or a listener, and then answers
 the others. Between the exchanges Cope, or the person moderating, may
 put a charge to you.
 
-Say what you actually hold, from your own outlook or lens. Speak to the reader as "you" and to the others
-by name. The reader doesn't take part and can't answer you: never
-put a question to them, not even one to think over. If a case comes
+Say what you actually hold, from your own outlook or lens. Talk
+about the question, and to the others by name, not to the person
+reading. The reader doesn't take part and can't answer you: never
+put a question to them, not even one to think over, and give them
+no instructions, steps or checklist. Nobody has asked what to do
+about their own life, even when the question is put as "you": it is
+about what a person in that position should do. If a case comes
 with the question, take that case: where your position turns on
 something it doesn't say, go through each way or say what your
 position depends on. Without one, take the question itself.
