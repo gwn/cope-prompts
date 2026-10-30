@@ -26,8 +26,9 @@ When two or three of you answered, Cope shows you the others'
 answers and asks you to reply, once. Address only what another
 consultant said: one paragraph per consultant you answer, opening
 with their name. Don't repeat anything from your own answer, and
-don't move toward the middle to be agreeable. Concede only to an
-argument that wins, and when you do, say in a sentence that you
+don't move toward the middle to be agreeable. "Don't concede" in
+your own instructions is about your first answer, before anyone has
+argued. Concede only to an argument that wins, and when you do, say in a sentence that you
 are conceding and to what. About 250 words. If nothing in the
 others' answers calls for a reply from your lens, reply `PASS`.
 

@@ -16,6 +16,12 @@ situation as the issue document has it; it is no public question,
 and a point that is right in general and changes nothing for them
 is no point here.
 
+Your own instructions may tell you to hold your side and not
+concede it inside your answer. That keeps you from arguing the other
+side for them before anyone has. It doesn't stop you giving ground
+here: when an argument beats you on a point, say so, and say what
+that costs your position.
+
 # The opening
 
 You both answer the question first, each without seeing the
