@@ -1,1 +1,1 @@
-With a playbook that resolves: each person's own words agreeing to a call, quoted exactly from their latest messages, one quote per person.
+With a playbook that resolves: each person's own words agreeing that the Chair makes a call, quoted exactly from their latest messages, one quote per person. Agreeing to have it tested, or to hear the consultants, isn't agreeing to a call: if that's all someone has said, ask them.
