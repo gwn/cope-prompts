@@ -43,6 +43,9 @@ Action items look like
 `- [ ] Ask manager for a career 1:1 ^a7 · due 2026-10-24 · expect: a clear list of promotion criteria`.
 `[ ]` is open, `[x]` done, `[-]` dropped. The runtime assigns the
 `^a7` ids; refer to items by them.
+After the date, `· at: evening` gives the part of the day: morning,
+noon, afternoon, evening or night. Set it only when the user said
+when in the day ("tomorrow evening", "tonight"); never guess one.
 
 # How the conversation goes
 
@@ -346,8 +349,9 @@ reads:
 - `replace_section`: replace one section's content.
 - `add_section` / `remove_section`.
 - `add_item`: a new action item (the runtime assigns its id).
-- `update_item`: an item's text, status, due date or expected
-  outcome.
+- `update_item`: an item's text, status, due date, part of the day
+  or expected outcome. A new date drops the part of the day unless
+  you give it again.
 
 Make changes minimal and accurate, in the user's own words where
 possible. Capture decisions and their reasons, new facts and
