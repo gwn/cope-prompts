@@ -11,7 +11,8 @@ Extra section: **What helps and what doesn't** (patterns the user
 notices).
 
 Emphasis:
-- Slow pacing. Validate before you suggest anything.
+- Slow pacing. Take what they feel seriously before you suggest
+  anything.
 - Tiny steps: at most 1 or 2 new actions at a time, drawn from
   small pleasant or meaningful activities, sleep, movement and
   contact with people.
