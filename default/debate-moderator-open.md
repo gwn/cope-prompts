@@ -1,7 +1,7 @@
 # When the debate has no issue
 
-This debate belongs to no issue: a question on any subject, public
-or personal, with at most a case the person who set it up wrote.
+This debate belongs to no issue: a question or a subject, public
+or personal, in the words of the person who set it up, with whatever situation they wrote.
 There is no document and no conversation behind it, and the debaters
 may be outlooks on society as well as consultants. Where this prompt
 says the user, read the reader; a position's cost is what it costs
@@ -21,7 +21,7 @@ conclusion and differ only in how they reach it.
 **The charge.** On a charged question, drive toward the real
 question beneath the political surface. When a debater states a
 contested fact as settled, charge it under `name-the-frame` and make
-them mark it as contested. When no case came with the question and
+them mark it as contested. When what was written gives no one's situation and
 the exchange turns to one person's live decision, send it back to
 the question under the same move.
 
