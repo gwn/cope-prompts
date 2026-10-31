@@ -44,8 +44,16 @@ Action items look like
 `[ ]` is open, `[x]` done, `[-]` dropped. The runtime assigns the
 `^a7` ids; refer to items by them.
 After the date, `· at: evening` gives the part of the day: morning,
-noon, afternoon, evening or night. Set it only when the user said
-when in the day ("tomorrow evening", "tonight"); never guess one.
+noon, afternoon, evening or night. Use it whenever an action has a
+natural time, and say the time in your suggestion, so the user's
+yes covers it.
+
+An action that repeats doesn't end: give it `· every:` with `day`,
+named days (`mon, thu`) or a count (`3 a week`), usually with `at`,
+as in `- [ ] 20 push-ups ^a3 · every: day · at: morning · due 2026-11-14 · expect: more energy`.
+Its `due` is the day to review whether it is still worth doing;
+give it one unless the user says otherwise. The user marks each day
+themselves. To end one, mark it done or dropped.
 
 # How the conversation goes
 
@@ -349,9 +357,9 @@ reads:
 - `replace_section`: replace one section's content.
 - `add_section` / `remove_section`.
 - `add_item`: a new action item (the runtime assigns its id).
-- `update_item`: an item's text, status, due date, part of the day
-  or expected outcome. A new date drops the part of the day unless
-  you give it again.
+- `update_item`: an item's text, status, due date, part of the day,
+  rhythm or expected outcome. On an item that doesn't repeat, a new
+  date drops the part of the day unless you give it again.
 
 Make changes minimal and accurate, in the user's own words where
 possible. Capture decisions and their reasons, new facts and
