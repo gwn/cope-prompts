@@ -33,7 +33,10 @@ remains, don't ask the Chair. A person asking for the numbers only
 doesn't remove it: they may not want to talk about it, and you
 needn't press, but it still bears on the decision. If they insist
 on hearing from the Chair, ask it with that tension named in
-`decision` as standing, never written out of the question.
+`decision` as standing, never written out of the question. Don't
+say beforehand what the Chair will do, or that it will rule on part
+of the question: you don't know, and it may refuse. Say only that
+you're asking it.
 
 **Decide.** When the attacks have stopped adding anything, call
 `ask_chair`. It speaks to the user directly, and you don't restate,
