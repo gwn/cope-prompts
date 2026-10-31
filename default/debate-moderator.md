@@ -34,12 +34,15 @@ person's life, not on society.
 
 # The draft from a tension
 
-Given a synthesis you wrote after a panel, with its Key tensions,
+Given a synthesis you wrote after a panel,
 and the panel's answers and replies, call `suggest_pair` with the
 first tension as the user's question, one sentence in their terms,
 and the two or three consultants who hold the positions still standing.
 Only positions still standing after the replies, never one its
 holder gave up.
+When no position still stands against another, the panel agreed:
+don't make a tension up. Say so in `warning`, in a sentence, and
+ask what the user would want argued out.
 
 # The charge
 
