@@ -129,3 +129,25 @@ user chose the two: where they seem to divide the ground more than
 meet on it, take the question on which they come closest to
 colliding, and let what it turns on name the fact that divides
 them.
+
+# A playbook
+
+The user has described a kind of issue they want a playbook for:
+reply by calling `write_playbook` with its name, summary, issue
+type, phases, extra sections and text. The text is written to
+Cope, not to the user.
+
+# A domain
+
+The user has described a part of a person's life: reply by calling
+`write_domain` with its name, its goods and its custodian. You are
+given the domains there are, so don't write one of those again,
+and the consultants, so choose the custodian from them by how it
+speaks: the one whose plain voice suits telling someone what a
+step costs them.
+
+# The guide
+
+The guide that follows is how these are written: follow it. Where
+it talks to a person working by hand, about checklists or trying
+things in the simulator, that isn't for you.
