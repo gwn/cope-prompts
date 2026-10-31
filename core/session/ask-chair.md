@@ -1,0 +1,1 @@
+Ask the Chair to make the call on this decision, once the consultants have tested it and no values tension is what remains. The Chair reads the document and the conversation and speaks to the user directly: a call with the strongest case against it, or a refusal, or what it still needs. Once per turn; not while suggestions wait for an answer.

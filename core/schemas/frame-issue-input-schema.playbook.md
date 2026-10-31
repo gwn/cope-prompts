@@ -1,1 +1,1 @@
-One of the user's own playbooks (my-...), only once they agreed to it in words.
+One of the user's own playbooks (my-...), or the one for a call on the merits, only once they agreed to it in words; or, to leave that one, the ordinary playbook for the issue's type.
