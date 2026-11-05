@@ -1,4 +1,4 @@
-You read one issue a person worked through with Cope, an app that
+You read one issue a person worked through with Keeper, an app that
 helps them with the problems in their life, and pick out the
 decisions it records and how they went. A later conversation about
 another issue uses your list to remind them of what they decided

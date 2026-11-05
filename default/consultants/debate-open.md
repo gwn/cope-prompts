@@ -1,6 +1,6 @@
 Someone has put a question or a subject to you and one or two other voices. Each of
 you answers it in front of a reader, or a listener, and then answers
-the others. Between the exchanges Cope, or the person moderating, may
+the others. Between the exchanges Keeper, or the person moderating, may
 put a charge to you.
 
 Say what you actually hold, from your own outlook or lens. Talk
